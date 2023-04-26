@@ -1,0 +1,1 @@
+{"scripts":{"build":"token-transformer tokens.json output.json && npx style-dictionary build"},"dependencies":{"husky":"^8.0.3"}}
